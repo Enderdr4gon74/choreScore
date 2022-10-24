@@ -14,3 +14,5 @@ global using CodeWorks.Utils;
 global using choreScore.Repositories;
 global using choreScore.Services;
 global using choreScore.Models;
+global using choreScore.Data;
+global using choreScore.Enums;
