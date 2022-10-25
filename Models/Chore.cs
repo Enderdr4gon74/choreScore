@@ -1,4 +1,4 @@
-namespace choreScore.models;
+namespace choreScore.Models;
 
 public class Chore 
 {
